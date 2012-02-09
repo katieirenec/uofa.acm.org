@@ -1,0 +1,10 @@
+<h1>Talks</h1>
+<h2>Lightning talks and more. Every Monday @ 6 PM in GS-701.</h2>
+
+<time datetime='2012-02-06T06:00:00-07:00'>Feb 6</time>
+<h4>Monads <em>(Chris Van Horne)</em></h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus, purus a commodo tincidunt, diam mi mattis lectus, id euismod dolor elit eu lorem. Sed eu posuere ligula. Aenean et augue quam. Cras diam ante, volutpat at dictum sed, volutpat eu diam. Pellentesque euismod adipiscing dictum. Suspendisse bibendum interdum ligula, sed ultrices tellus placerat nec. Nunc semper, orci sed dictum egestas, nisi tortor tempus sapien, a elementum sapien mauris vestibulum ipsum. Ut quam augue, ultricies ac viverra a, faucibus sagittis sem. Praesent at volutpat augue. Morbi fermentum, eros ut rutrum laoreet, ipsum turpis tempus diam, sit amet congue purus mauris vel dui. Phasellus auctor libero semper quam fringilla tempor. Aenean sodales est at diam rutrum vitae bibendum nisi porta. Cras et risus est. Aenean a elit orci, vitae venenatis eros. Ut et risus ligula, id euismod arcu. Suspendisse potenti.</p>
+
+<time datetime='2012-02-06T06:00:00-07:00'>Feb 6</time>
+<h4>vim .emacs <em>(Chas Leichner)</em></h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus, purus a commodo tincidunt, diam mi mattis lectus, id euismod dolor elit eu lorem. Sed eu posuere ligula. Aenean et augue quam. Cras diam ante, volutpat at dictum sed, volutpat eu diam. Pellentesque euismod adipiscing dictum. Suspendisse bibendum interdum ligula, sed ultrices tellus placerat nec. Nunc semper, orci sed dictum egestas, nisi tortor tempus sapien, a elementum sapien mauris vestibulum ipsum. Ut quam augue, ultricies ac viverra a, faucibus sagittis sem. Praesent at volutpat augue. Morbi fermentum, eros ut rutrum laoreet, ipsum turpis tempus diam, sit amet congue purus mauris vel dui. Phasellus auctor libero semper quam fringilla tempor. Aenean sodales est at diam rutrum vitae bibendum nisi porta. Cras et risus est. Aenean a elit orci, vitae venenatis eros. Ut et risus ligula, id euismod arcu. Suspendisse potenti.</p>
