@@ -2,7 +2,7 @@ $(document).ready(function () {
     var $github = $('#github').hide();
     var $blocks = $('.block,div.logo,nav,#logo,header');
     var mobile = navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBerry)/);
-    if (!mobile) {
+    if (mobile) {
         $github.hide();
         $blocks.addClass('device').removeClass('windowed')
     } else {
