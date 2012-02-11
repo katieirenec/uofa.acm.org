@@ -3,10 +3,11 @@
 
 <time datetime='2012-02-13T06:15:00-06:30'>Feb 13</time>
 <h4>An Introduction to Monads <em>(Chris Van Horne)</em></h4>
-<p>Continuing from the "Haskell in 15 Minutes" talk from last week, Chris will
-giving an introduction to the world of monads. He will be recapping his last
-week's talk on Haskell, so if you missed out then don't worry about being too
-lost.</p>
+<p>Continuing from the "Haskell in 15 Minutes" talk from last week, this week's talk will 
+cover the rationale for monads in pure functional programming; the Wadler interpreter; trivial
+construction and application in monadic context; computational facets;
+a tour of the standard monads; and finally, monads beyond the Haskell
+programming language.</p>
 
 <h4>Git: rm *.old <em>(Chas Leichner)</em></h4>
 <p>Chas will give an introduction to version control with git. He will cover
