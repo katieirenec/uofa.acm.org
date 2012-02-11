@@ -15,5 +15,5 @@ if (mobile) {
     $(window).resize();
 }
 $('#logo').click(function () {
-    window.location = '/';
+    window.location = 'index.php';
 });

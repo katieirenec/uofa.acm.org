@@ -51,7 +51,7 @@ header.device {
 }
 
 div.logo {
-	background: url(/static/img/arizona.png) left no-repeat;
+	background: url(../../static/img/arizona.png) left no-repeat;
 }
 
 header h1 {
