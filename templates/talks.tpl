@@ -22,7 +22,7 @@ use vim for high speed text editing.
 </p>
 
 <h4>Inotify: the better dnotify <em>(Justin Van Horne)</em></h4>
-<p>Inotify is a Linux kernel sybsystem that provides a mechanism for monitoring file system events. Never again will you have to poll files or directories for changes. Justin will demonstrate the C API as well as the equivalent Python API.</p>
+<p>Inotify is a Linux kernel subsystem that provides a mechanism for monitoring file system events. Never again will you have to poll files or directories for changes. Justin will demonstrate the C API as well as the equivalent Python API.</p>
 
 <time datetime='2012-02-20T06:00:00-07:00'>Feb 27</time>
 <h4>PyV8 <em>(Justin Van Horne)</em></h4>

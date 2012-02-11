@@ -1,7 +1,10 @@
 <!DOCTYPE html>
-<html lang='en'>
+<html lang='en' itemscope itemtype="http://schema.org/Organization">
   <head>
     <title>University of Arizona ACM: {block 'title'}{/block}</title>
+    <meta itemprop="name" content="The University of Arizona ACM">
+    <meta itemprop="description" content="The University of Arizona ACM charter is an official ACM student chapter located in Tucson, Arizona.">
+    <meta itemprop="image" content="https://plus.google.com/b/101197312921565460890/101197312921565460890/posts">
     <meta charset='UTF-8'>
     <link rel='stylesheet' href='/static/css/reset.css'>
     <link href='http://fonts.googleapis.com/css?family=Lato:300|Glegoo' rel='stylesheet'>
@@ -10,6 +13,7 @@
     {block 'css'}{/block}
     <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>
     {block 'javascript'}{/block}
+    <script src='/static/js/analytics.js'></script>
   </head>
   <body>
     <div class='shadow-top'></div>
