@@ -1,12 +1,12 @@
 {extends 'base.tpl'}
 
 {block 'css'}
-<link rel='stylesheet' media='all' href='/static/css/chosen.css'>
+<link rel='stylesheet' media='all' href='static/css/chosen.css'>
 {/block}
 
 {block 'javascript'}
-<script src='/static/js/chosen.jquery.min.js'></script>
-<script src='/static/js/recaptcha.js'></script>
+<script src='static/js/chosen.jquery.min.js'></script>
+<script src='static/js/recaptcha.js'></script>
 {/block}
 
 {block 'content'}
