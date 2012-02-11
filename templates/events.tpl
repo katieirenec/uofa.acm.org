@@ -1,10 +1,10 @@
 <h1>Events</h1>
 
-<h2>Sponsored events. Whenever we can.</h2>
-<time datetime='2012-01-30T06:00:00-07:00'>Jan 30</time>
-<h4>First Spring Meeting <em>(6PM - 7PM @ Gould Simpson 701)</em></h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus, purus a commodo tincidunt, diam mi mattis lectus, id euismod dolor elit eu lorem. Sed eu posuere ligula. Aenean et augue quam. Cras diam ante, volutpat at dictum sed, volutpat eu diam. Pellentesque euismod adipiscing dictum. Suspendisse bibendum interdum ligula, sed ultrices tellus placerat nec. Nunc semper, orci sed dictum egestas, nisi tortor tempus sapien, a elementum sapien mauris vestibulum ipsum. Ut quam augue, ultricies ac viverra a, faucibus sagittis sem. Praesent at volutpat augue. Morbi fermentum, eros ut rutrum laoreet, ipsum turpis tempus diam, sit amet congue purus mauris vel dui. Phasellus auctor libero semper quam fringilla tempor. Aenean sodales est at diam rutrum vitae bibendum nisi porta. Cras et risus est. Aenean a elit orci, vitae venenatis eros. Ut et risus ligula, id euismod arcu. Suspendisse potenti.</p>
-
-<time datetime='2012-02-06T06:00:00-07:00'>Feb 6</time>
-<h4>First Spring Meeting <em>(6PM - 7PM @ Gould Simpson 701)</em></h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus, purus a commodo tincidunt, diam mi mattis lectus, id euismod dolor elit eu lorem. Sed eu posuere ligula. Aenean et augue quam. Cras diam ante, volutpat at dictum sed, volutpat eu diam. Pellentesque euismod adipiscing dictum. Suspendisse bibendum interdum ligula, sed ultrices tellus placerat nec. Nunc semper, orci sed dictum egestas, nisi tortor tempus sapien, a elementum sapien mauris vestibulum ipsum. Ut quam augue, ultricies ac viverra a, faucibus sagittis sem. Praesent at volutpat augue. Morbi fermentum, eros ut rutrum laoreet, ipsum turpis tempus diam, sit amet congue purus mauris vel dui. Phasellus auctor libero semper quam fringilla tempor. Aenean sodales est at diam rutrum vitae bibendum nisi porta. Cras et risus est. Aenean a elit orci, vitae venenatis eros. Ut et risus ligula, id euismod arcu. Suspendisse potenti.</p>
+<h2>ACM and Friends Sponsored Events</h2>
+<time datetime='2012-02-20T06:00:00-07:00'>February</time>
+<h4>Lightning Talks</h4>
+<p>Join ACM every Monday at 6PM in GS-701 for lightning talks on a variety of subjects. These talks range from hacker culture and history to APIs and programming languages. We're open to all students and faculty. <a href='/speak.php'>Interested in giving a talk? Then let us know!</a></p>
+<time datetime='2012-03-30T06:00:00-07:00'>March</time>
+<h4>2nd Annual Spring Programming Competition</h4>
+<p>The Spring 2012 programming competition has yet to be determined, but talks have started addressing the topic and style of the 2<sup>nd</sup> annual "University of Arizona ACM Spring Programming Competition".</p>
+<p>The previous year's competition was in the style of ICPC without the language limitations, but there have been recent suggestions to create a single project that teams can hack on. We expect to finalize the competition details, sponsors, and date within the month.</p>
