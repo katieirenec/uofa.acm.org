@@ -49,7 +49,7 @@ header.windowed {
 }
 
 header.device {
-    height: 75px;
+    height: 100px;
 }
 
 div.logo {
@@ -125,10 +125,14 @@ header > .logo {
 }
 
 #logo.device {
+    width: 40px !important;
     height: 40px;
-    width: 45px !important;
+    clear: both;
     display: block;
-    position: fixed;
+    position: static;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 #logo.device h1 {
