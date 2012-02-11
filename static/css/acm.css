@@ -397,3 +397,11 @@ span.hint {
 	font-family: 'Lato', serif;
     font-size: 12px;
 }
+
+footer {
+    font-family: 'Lato', serif;
+    font-size: 90%;
+    color: #CCC;
+    text-align: center;
+    clear: both;
+}
