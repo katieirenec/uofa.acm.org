@@ -1,5 +1,7 @@
 {extends 'base.tpl'}
 
+{block 'title'}Member Information{/block}
+
 {block 'content'}
 <section class='block full-page'>
     <h1>Member Information</h1>

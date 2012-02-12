@@ -1,5 +1,7 @@
 {extends 'base.tpl'}
 
+{block 'title'}Listserv Information{/block}
+
 {block 'content'}
 <section class='block full-page'>
     <h1>Listserv Information</h1>

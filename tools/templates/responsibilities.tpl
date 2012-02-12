@@ -1,5 +1,7 @@
 {extends 'base.tpl'}
 
+{block 'title'}Officer and Member Responsibilities{/block}
+
 {block 'content'}
 <section class='block full-page'>
     <h1>Officer and Member Responsibilities</h1>

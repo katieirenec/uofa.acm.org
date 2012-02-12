@@ -1,5 +1,7 @@
 {extends 'base.tpl'}
 
+{block 'title'}Speaking at ACM{/block}
+
 {block 'content'}
 <section class='block full-page'>
     <h1>Speaking at ACM</h1>

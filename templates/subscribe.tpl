@@ -1,5 +1,7 @@
 {extends 'base.tpl'}
 
+{block 'title'}Joining our ACM Chapter{/block}
+
 {block 'javascript'}
 <script src='/static/js/recaptcha.js'></script>
 {/block}

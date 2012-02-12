@@ -1,5 +1,7 @@
 {extends 'base.tpl'}
 
+{block 'title'}Congratulations and Welcome!{/block}
+
 {block 'content'}
 <section class='block full-page'>
     <h1>Welcome to our ACM chapter!</h1>

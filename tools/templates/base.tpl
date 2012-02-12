@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang='en' itemscope itemtype="http://schema.org/Organization">
   <head>
-    <title>University of Arizona ACM: {block 'title'}{/block}</title>
+    <title>University of Arizona ACM Help: {block 'title'}{/block}</title>
     <meta itemprop="name" content="The University of Arizona ACM">
     <meta itemprop="description" content="The University of Arizona ACM charter is an official ACM student chapter located in Tucson, Arizona.">
     <meta itemprop="image" content="https://plus.google.com/b/101197312921565460890/101197312921565460890/posts">

@@ -1,5 +1,7 @@
 {extends 'base.tpl'}
 
+{block 'title'}About our Chapter and ACM{/block}
+
 {block 'content'}
 <section class='block full-page'>
     <h1>Our Chapter</h1>

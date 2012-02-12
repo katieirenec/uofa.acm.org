@@ -1,5 +1,7 @@
 {extends 'base.tpl'}
 
+{block 'title'}General Chapter Information{/block}
+
 {block 'content'}
 <section class='block full-page'>
     <h1>General Chapter Information</h1>

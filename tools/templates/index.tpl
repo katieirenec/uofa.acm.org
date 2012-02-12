@@ -1,5 +1,7 @@
 {extends 'base.tpl'}
 
+{block 'title'}Chapter Help and Tools{/block}
+
 {block 'content'}
 <section class='block right'>
     <h1>Chapter Help and Tools</h1>

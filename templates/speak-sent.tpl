@@ -1,5 +1,7 @@
 {extends 'base.tpl'}
 
+{block 'title'}Speaking Request Sent{/block}
+
 {block 'content'}
 <section class='block full-page'>
     <h1>Thank you!</h1>

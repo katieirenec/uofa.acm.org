@@ -1,5 +1,7 @@
 {extends 'base.tpl'}
 
+{block 'title'}Speaking at ACM{/block}
+
 {block 'css'}
 <link rel='stylesheet' media='all' href='static/css/chosen.css'>
 {/block}
@@ -17,7 +19,7 @@
             {if $error}
             <span class='error'>{$error}</span>
             {/if}
-            <p>By adding your name and email you will be subscribed to the ACM listserv. You can remove yourself from the listserv at any time.</p>
+            <p>Interested in a lightning talk or a full presentation? Then just fill in these details and our officers will get back to you to schedule a time and location. If you have questions <a href='tools/speaking.php'>read our guidelines on presenting at our chapter</a>.</p>
             <div>
                 <label for='name'>Name:</label>
                 <input required type='text' placeholder='Joe Somebody' name='name' value='{$name}'>
