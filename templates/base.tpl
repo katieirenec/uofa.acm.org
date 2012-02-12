@@ -24,7 +24,7 @@
     <div class='shadow-top'></div>
     <div class='shadow-bottom'></div>
     <header>
-        <div id='logo' class='logo link'>
+        <div id='logo' onclick='window.location="index.php"' class='logo link'>
           <h1 class='red'>The University of Arizona ACM</h1>
           <h2>Association for Computing Machinery</h2>
         </div>
@@ -33,7 +33,7 @@
             <a href='subscribe.php'>SUBSCRIBE</a> &middot;
             <a href='speak.php'>SPEAK</a> &middot;
             <a href='what-is-acm.php'>CHAPTER</a> &middot;
-            <a href='officers.php'>OFFICERS</a> &middot;
+            <a href='tools/'>HELP</a> &middot;
             <g:plusone size="small"></g:plusone>
             <script src='https://apis.google.com/js/plusone.js'></script>
         </nav>
