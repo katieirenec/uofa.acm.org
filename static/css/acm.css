@@ -27,29 +27,12 @@ p {
     margin-bottom: 15px;
 }
 
-.device p {
-    font-size: 200%;
-}
-
-.windowed p {
-    font-size: 150%;
-}
-
 header {
 	margin-top: 5px;
     width: 100%;
     margin-bottom: 10px;
     position: relative;
     height: 60px;
-}
-
-
-header.windowed {
-    height: 100px;
-}
-
-header.device {
-    height: 100px;
 }
 
 div.logo {
@@ -83,62 +66,11 @@ header > nav {
     text-align: right;
 }
 
-header > nav.windowed {
-    margin-top: 10px;
-    display: block;
-    font-size: 140%;
-    text-align: center;
-    width: 100%;
-    position: static;
-}
-
-header > nav.device {
-    margin-bottom: 20px;
-    display: block;
-    font-size: 140%;
-    text-align: center;
-    width: 100%;
-    position: static;
-}
-
-header > nav.device #___plusone_0 {
-    margin-bottom: 20px;
-    display: none !important;
-}
-
 header > .logo {
     width: 400px;
     position: absolute;
     left: 0;
 }
-
-#logo.windowed {
-    position: static;
-    width: 430px !important;
-    margin: 0 auto;
-}
-
-#logo.device h1,
-#logo.device h2 {
-    float: none;
-    display: none;
-}
-
-#logo.device {
-    width: 40px !important;
-    height: 40px;
-    clear: both;
-    display: block;
-    position: static;
-    margin: 0 auto;
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-#logo.device h1 {
-    font-size: 120%;
-}
-
 
 #feed {
 	width: 48%;
@@ -174,23 +106,6 @@ header + section {
 	margin-left: 2%;
 }
 
-.block.windowed h1 {
-    font-size: 200% !important;
-}
-
-.block.device h2 {
-    font-size: 220% !important;
-}
-
-.block.device h1 {
-    font-size: 250% !important;
-}
-
-.block.device h2 {
-    font-size: 125% !important;
-}
-
-
 .block h1 {
 	line-height: 1.25em;
     font-size: 24px;
@@ -223,15 +138,6 @@ header + section {
 	padding: 5px 0;
 	margin-bottom: 0.6em;
 }
-
-.block.windowed h4 {
-    font-size: 160%;
-}
-
-.block.device h4 {
-    font-size: 180%;
-}
-
 
 .block p + h4 {
 	margin-top: 10px;
@@ -288,18 +194,6 @@ header + section {
 
 .full-page h1 {
     margin-bottom: 10px;
-}
-
-.windowed {
-    float: none;
-    display: block;
-    width: 100% !important;
-}
-
-.device {
-    float: none;
-    display: block;
-    width: 100% !important;
 }
 
 .link {
