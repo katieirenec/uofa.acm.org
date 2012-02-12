@@ -49,11 +49,11 @@ Now we need to tell `git` who we are on GitHub. This is done by an API token whi
 Replace all the variables with your specific information.
 ```
 [github]
-        user = $USER
-        token = $TOKEN
+user = $USER
+token = $TOKEN
 [user]
-        name = $YOUR-FULL-NAME
-        email = $YOUR-EMAIL
+name = $YOUR-FULL-NAME
+email = $YOUR-EMAIL
 ```
 
 That's it. GitHub, SSH access and Git are configured.
