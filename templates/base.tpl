@@ -12,7 +12,9 @@
     <link href='https://plus.google.com/101197312921565460890' rel='publisher'>
     <link rel='stylesheet' media='screen and (max-width: 715px)' href='static/css/hide-github.css'>
     <link rel='stylesheet' media='screen and (max-width: 900px)' href='static/css/windowed.css'>
-    <link rel="stylesheet" type="text/css" media="only screen" href="static/css/mobile.css">
+    {if $mobile}
+    <link rel='stylesheet' href='static/css/mobile.css'>
+    {/if}
     {block 'css'}{/block}
     <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>
     {block 'javascript'}{/block}

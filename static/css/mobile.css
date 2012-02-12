@@ -63,3 +63,6 @@ header > nav #___plusone_0 {
     width: 100% !important;
 }
 
+#github {
+    display: none;
+}
