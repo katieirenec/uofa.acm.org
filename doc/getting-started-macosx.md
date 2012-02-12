@@ -46,15 +46,12 @@ On the [SSH Keys](https://github.com/settings/ssh) page, click *Add New SSH Key*
 
 Now we need to tell `git` who we are on GitHub. This is done by an API token which is unique to your GitHub user account. Don't give this token out otherwise people will be able to impersonate you! Your API token can be found on [the Admin page](https://github.com/settings/admin) under *API Token*. Create a gitconfig by opening ```~/.gitconfig``` in your favorite editor. Add the following contents:
 
-Replace all the variables with your specific information.
-```
-[github]
-user = $USER
-token = $TOKEN
-[user]
-name = $YOUR-FULL-NAME
-email = $YOUR-EMAIL
-```
+Execute the following commands to configure `git` for GitHub.
+
+    $ git config --global user.name "First Lastname"
+    $ git config --global user.email "your_email@youremail.com"
+    $ git config --global github.user <your github username>
+    $ git config --global github.token 0123456789yourf0123456789token
 
 That's it. GitHub, SSH access and Git are configured.
 
