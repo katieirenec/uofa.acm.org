@@ -32,7 +32,11 @@
     <h1>Chapter Information</h2>
     <ul>
         <li><a href='chapter-information.php#donating'>Donating to our chapter</a></li>
-        <li><a href='chapter-information.php#forking'>Forking our website</a></li>
+        <li><a href='chapter-information.php#forking'>Forking our website</a>
+            <ul>
+                <li><a href='chapter-information.php#mac'>Working on the ACM site with your Mac</a></li>
+            </ul>
+        </li>
         <li><a href='chapter-information.php#creating'>Creating an ACM event</a></li>
         <li><a href='chapter-information.php#participating'>Participating in our competitions</a></li>
     </ul>
