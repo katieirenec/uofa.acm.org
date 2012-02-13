@@ -2,12 +2,16 @@
 <h2>Lightning talks and more. Every Monday @ 6 PM in GS-701.</h2>
 
 <time datetime='2012-02-13T06:15:00-06:30'>Feb 13</time>
-<h4>An Introduction to Monads <em>(Chris Van Horne)</em></h4>
-<p>Continuing from the "Haskell in 15 Minutes" talk from last week, this week's talk will 
-cover the rationale for monads in pure functional programming; the Wadler interpreter; trivial
-construction and application in monadic context; computational facets;
-a tour of the standard monads; and finally, monads beyond the Haskell
-programming language.</p>
+<h4>An Introduction to Monads<em>(Chris Van Horne)</em></h4>
+<p>
+Continuing from the "Haskell in 15 Minutes" talk from last week,
+Chris will cover monads and remove some of their mystique. The talk
+will give the rationale of monads in a pure lazy functional
+language like Haskell. The Wadler interpreter will be the vehicle
+of discovery for derivation of two standard Haskell monads: 
+<code>Maybe</code> and 
+<code>Writer</code>. This talk should be considered
+advanced, but the high-level concepts appropriate for a 200-level CSc student. <a href='static/talks/monads-acm-spring12.pdf'>Download this PDF.</a></p>
 
 <h4>Git: rm *.old <em>(Chas Leichner)</em></h4>
 <p>An introduction to version control with git, covering what version control

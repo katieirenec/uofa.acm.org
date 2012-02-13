@@ -47,7 +47,7 @@
     <h1>Speaking at ACM</h1>
     <ul>
         <li><a href='speaking.php#lightning'>How to give a lighting talk</a></li>
-        <li><a href='speaking.php#business'>Business or organization sponsored talk</a></li>
+        <l><a href='speaking.php#business'>Business or organization sponsored talk</a></li>
         <li><a href='speaking.php#faculty'>Faculty sponsored talk</a></li>
     </ul>
 </section>
