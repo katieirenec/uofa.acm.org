@@ -335,3 +335,49 @@ footer {
 .bold {
     font-weight: bold;
 }
+
+section.content {
+    width: 85%;
+    border-left: 8px solid #EFEFEF;
+    padding-left: 10px;
+}
+
+code,
+pre {
+    font-family: "Courier New", "Monaco", "Bitstream Vera sans Mono";
+    background-color: #EFEFEF;
+    padding: 3px;
+    border: 1px solid #CCC;
+    font-weight: normal !important;
+}
+
+p > code {
+    display: inline;
+    margin-bottom: 0px;
+    font-size: 70% !important;
+}
+
+pre,
+code {
+    display: block;
+    font-size: 90%;
+    margin-bottom: 10px;
+}
+
+section.content h1 {
+    font-size: 175% !important;
+}
+
+section.content h2 {
+    font-size: 150%;
+    border-color: #EFEFEF;
+}
+
+.header-red h1 {
+	color: #CC0033;
+}
+
+code {
+    font-weight: normal;
+    white-space: pre-wrap;
+}
