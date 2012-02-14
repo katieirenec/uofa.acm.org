@@ -23,6 +23,10 @@
 </div>
 
 <time datetime='2012-02-20T06:00:00-07:00'>Feb 20</time>
+<h4>Spring Programming Competition <em>(Justin Van Horne)</em></h4>
+<p> It's time to decide how we're structuring the competition this semester. We'll spend the next few weeks going over the problem or problems as well as funding, location, and so on.
+</p>
+
 <h4>Vim: like typing, but faster <em>(Chas Leichner)</em></h4>
 <p> Rise up, hacker! Cast off the chains of your IDE! An introduction to vim
 for high speed text editing.
