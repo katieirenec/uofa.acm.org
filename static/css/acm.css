@@ -389,3 +389,19 @@ li ul li {
     margin-top: 5px;
     font-size: 90% !important;
 }
+
+.faded time,
+.faded p,
+.faded a,
+.faded em,
+.faded {
+    color: #999 !important;
+}
+
+.width-600 {
+    width: 600px;
+}
+
+.center {
+    margin: 0 auto;
+}
