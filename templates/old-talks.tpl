@@ -6,6 +6,23 @@
 <section class='block width-600 center'>
   <h1>Past Talks</h1>
   <h2>Need some resources or want to know what you missed?</h2>
+
+  <time datetime='2012-02-20T06:00:00-07:00'>Feb 20</time>
+  <h4>Spring Programming Competition <em>(Justin Van Horne)</em></h4>
+  <p> It's time to decide how we're structuring the competition this semester. We'll spend the next few weeks going over the problem or problems as well as funding, location, and so on.
+  </p>
+
+  <h4>Vim: like typing, but faster <em>(Chas Leichner)</em></h4>
+  <p> Rise up, hacker! Cast off the chains of your IDE! An introduction to vim
+  for high speed text editing.
+  </p>
+
+  <h4>Inotify: the better dnotify <em>(Justin Van Horne)</em></h4>
+  <p>Inotify is a Linux kernel subsystem that provides a mechanism for 
+  monitoring file system events. Never again will you have to poll files 
+  or directories for changes. Justin will demonstrate the C API as well 
+  as the equivalent Python API.</p>
+
   <time datetime='2012-02-13T06:15:00-06:30'>Feb 13</time>
   <h4>An Introduction to Monads<em>(Chris Van Horne)</em></h4>
   <p>
