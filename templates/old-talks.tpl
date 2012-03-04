@@ -7,6 +7,15 @@
   <h1>Past Talks</h1>
   <h2>Need some resources or want to know what you missed?</h2>
 
+  <time datetime='2012-02-27T06:00:00-07:00'>Feb 27</time>
+  <h4>It's a survival trait! <em>(Justin Van Horne)</em></h4>
+  <p>Stripe is hosting a 6-level 
+  <a href='https://stripe.com/blog/capture-the-flag'>capture the flag</a>
+  competition and we want to show you how to get to level 6! It's up to you to
+  solve the last problem, but we will walk you the first five. We'll explain
+  and demonstrate buffer overflows, stack smashing, shellcode, regex exploits, 
+  and more.</p>
+
   <time datetime='2012-02-20T06:00:00-07:00'>Feb 20</time>
   <h4>Spring Programming Competition <em>(Justin Van Horne)</em></h4>
   <p> It's time to decide how we're structuring the competition this semester. We'll spend the next few weeks going over the problem or problems as well as funding, location, and so on.
