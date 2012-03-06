@@ -1,5 +1,11 @@
 <h1>Events</h1>
 
+<time datetime='2012-03-07T05:00:00-06:00'>Mar 7 at 5PM in ECE530</time>
+<h4>JPEG2000 <em>(Dr. Michael W. Marcellin)</em></h4>
+<p>Dr. Marcellin will be giving a survey introduction to JPEG2000 including
+an overview and demonstrations. Dr. Marcellin was part of the original team
+that developed JPEG2000.</p>
+
 <time datetime='2012-03-30T06:00:00-07:00'>March</time>
 <h4>2nd Annual Spring Programming Competition</h4>
 <p>The Spring 2012 programming competition has yet to be determined, but talks have started addressing the topic and style of the 2<sup>nd</sup> annual "University of Arizona ACM Spring Programming Competition".</p>
