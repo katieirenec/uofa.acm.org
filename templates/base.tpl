@@ -30,9 +30,9 @@
         </div>
         <nav>
             <a href='index.php'>EVENTS</a> &middot;
-            <a href='subscribe.php'>SUBSCRIBE</a> &middot;
             <a href='speak.php'>SPEAK</a> &middot;
             <a href='what-is-acm.php'>CHAPTER</a> &middot;
+            <a href='http://groups.google.com/group/uofa-acm'>GOOGLE GROUP</a> &middot;
             <a href='tools/'>HELP</a> &middot;
             <g:plusone size="small"></g:plusone>
             <script src='https://apis.google.com/js/plusone.js'></script>

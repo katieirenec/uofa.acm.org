@@ -12,16 +12,3 @@ JavaScript interface to your Python programs with ease. This talk will demonstra
 a small game and usage of previous topics, such as inotify.</p>
 
 <p><a class='red' href='old-talks.php'>View talks from the past.</a></p>
-
-<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  height="500">
-</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/forum/embed/?place=forum/uofa-acm'
-     + '&showsearch=true&showpopout=true&showtabs=false'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script>
