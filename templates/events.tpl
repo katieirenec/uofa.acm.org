@@ -1,4 +1,5 @@
 <h1>Events</h1>
+<h2>Important events to all hackers alike.</h2>
 
 <time datetime='2012-03-25T12:15-17:00'>March 25th at 12:00-5:00PM in GS-907</time>
 <h4>WICS Basic Programming Workshop</h4>
