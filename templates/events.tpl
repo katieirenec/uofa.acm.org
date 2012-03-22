@@ -1,13 +1,29 @@
 <h1>Events</h1>
 
-<time datetime='2012-03-07T05:00:00-06:00'>March 7 at 5PM in ECE530</time>
-<h4>JPEG2000 <em>(Dr. Michael W. Marcellin)</em></h4>
-<p><a href='http://www2.engr.arizona.edu/~mwm/'>Dr. Marcellin</a>
-will be giving a survey introduction to 
-<a href='http://en.wikipedia.org/wiki/JPEG_2000'>JPEG2000</a> including
-an overview and demonstrations. JPEG2000 provides a standard for superior 
-image compression performance, data streaming at multiple resolutions, 
-specific region of interest, and both lossy and lossless compression.</p>
+<time datetime='2012-03-25T12:15-17:00'>March 25th at 12:00-5:00PM in GS-907</time>
+<h4>WICS Basic Programming Workshop</h4>
+<p>The University of Arizona Women in Computer Science (WICS) will be hosting
+a programming seminar for those interested in diving into Python, Matlab, and
+more. There are volunteering opportunities as well as the chance to learn
+something new.</p>
+<h5>Python Intro</h5>
+<p>Learn Python from scratch, from the download to arithmetic to variables 
+to loops to file IO. This is the same as the Intro Python workshop offered 
+on March 4. Installation and snacks: 12:00-12:15pm. Class: 12:15-1:15pm.</p>
+
+<h5>Applying Python</h5>
+<p>In this workshop, we will dive a little deeper into Python, and also 
+apply it to solve a real-world scientific task. Lists, dictionaries, more 
+advanced loops, and more practice problems, including parsing a file and 
+probably an alternative task if you hate file parsing. Class: 1:30-2:30pm.</p>
+
+<h5>MATLAB Intro</h5>
+<p>Loaded with features, MATLAB makes number crunching quick and easy to 
+visualize. Used extensively in many industries, from engineering to computer 
+vision. Learn MATLAB from scratch, including the development environment, 
+(array) variables, loops, scripts, and many built-in functions.
+Installation, if needed: 3:00-3:30pm.
+MATLAB basics: 3:30-5:00pm</p>
 
 <time datetime='2012-03-30T06:00:00-07:00'>March</time>
 <h4>2nd Annual Spring Programming Competition</h4>

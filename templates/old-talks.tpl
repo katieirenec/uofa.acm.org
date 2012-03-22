@@ -7,6 +7,10 @@
   <h1>Past Talks</h1>
   <h2>Need some resources or want to know what you missed?</h2>
 
+  <time datetime='2012-03-19T06:00-07:00'>Mar 19</time>
+  <h4>Fame and Fortune* Through Graph Theory<br><em>(Katie Cunningham)</em></h4>
+  <p>Katie Cunningham will be giving a short talk on basic graph theory and related research in graph vizualization.</p>
+
   <time datetime='2012-02-27T06:00:00-07:00'>Feb 27</time>
   <h4>It's a survival trait! <em>(Justin Van Horne)</em></h4>
   <p>Stripe is hosting a 6-level 

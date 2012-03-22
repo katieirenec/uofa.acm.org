@@ -55,6 +55,12 @@ header h2 {
 	margin-left: 50px;
 }
 
+
+h5 {
+	font-family: 'Lato', serif;
+    font-weight: bold;
+}
+
 header a {
     text-decoration: none;
 }
