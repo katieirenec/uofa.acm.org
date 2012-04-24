@@ -7,6 +7,12 @@
   <h1>Past Talks</h1>
   <h2>Need some resources or want to know what you missed?</h2>
 
+  <time datetime='2012-04-09T06:00-07:00'>Apr 9</time>
+  <h4>Django<br><em>(Justin Van Horne)</em></h4>
+  <p>It's a framework for perfectionists with deadlines. This week's talk
+  concerns a high-level web framework written in Python. See its applications
+  and usages. <a href='http://goo.gl/cFM6o'>(view this presentation)</a></p>
+
   <time datetime='2012-03-26T06:00-07:00'>Mar 26</time>
   <h4>Fame and Fortune* Through Graph Theory<br><em>(Katie Cunningham)</em></h4>
   <p>Katie Cunningham will continue her talk on graph theory and related 
