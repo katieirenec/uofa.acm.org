@@ -3,7 +3,8 @@
 
 <time datetime='2012-09-22T08:00-13:00'>September 22nd, 2012 from 8:00AM-1:00PM</time>
 <h4>ACM ICPC Local Competition</h4>
-<p>Gather in teams of 2-3 and attack a set of problems in this ICPC competition with Microsoft sponsorship. More details to come.</p>
+<p>Gather in teams of 2-3 and attack a set of problems in this ICPC competition with Microsoft sponsorship.
+<a class='red' href='compete.php'>Sign your team up for the Fall 2012 local competition.</a></p>
 
 <time>Fall 2012</time>
 <h4>ISTA 420/520 Applied CI Concepts</h4>
