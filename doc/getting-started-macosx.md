@@ -16,7 +16,7 @@ By default, Apache will not be configured to load the PHP module. Copy-and-paste
 
 ```$ sudo sed -i '' -e 's/^#LoadModule php5/LoadModule php5/' /etc/apache2/httpd.conf```
 
-When we configure our local ACM site, we'll be using symlinks into the public user web directory. We must configure the Apache server to follow symlinks. Add `FoolowSymLinks` to `/etc/apache/users/$USER.conf` where `$USER` is your normal user account. The file should look similar to this:
+When we configure our local ACM site, we'll be using symlinks into the public user web directory. We must configure the Apache server to follow symlinks. Add `FollowSymLinks` to `/etc/apache/users/$USER.conf` where `$USER` is your normal user account. The file should look similar to this:
 
 ```
 <Directory "/Users/cwvh/Sites/">
