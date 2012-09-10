@@ -6,6 +6,12 @@
 <section class='block width-600 center'>
   <h1>Past Events</h1>
 
+  <time datetime='2012-04-235T6:00-17:00'>April 23 from 6:00-7:00PM in GS-907</time>
+  <h4>iPlant</h4>
+  <p>The iPlant Collaborative aims to solve large data problems in biology; everything from transfer, storage, analysis, visualization, meta-data mark-up, searching and discovering, sharing and collaborating, and publishing. Their stack includes GWT, Clojure, Python, MongoDB, PostgreSQL, and more--all open source and on <a href='https://github.com/iPlantCollaborativeOpenSource'>GitHub</a>. Check out their <a href='http://goo.gl/eFHeX'>slides and go apply for an internship</a> while they're still available.</p>
+
+
+
   <time datetime='2012-03-25T12:15-17:00'>March 25th at 12:00-5:00PM in GS-907</time>
   <h4>WICS Basic Programming Workshop</h4>
   <p>The University of Arizona Women in Computer Science (WICS) will be hosting
