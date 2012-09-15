@@ -36,6 +36,7 @@
             <a href='tools/'>HELP</a> &middot;
             <g:plusone size="small"></g:plusone>
             <script src='https://apis.google.com/js/plusone.js'></script>
+            <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
         </nav>
         <div class='clear'></div>
     </header>

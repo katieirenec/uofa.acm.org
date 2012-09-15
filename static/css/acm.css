@@ -415,3 +415,24 @@ li ul li {
 .center {
     margin: 0 auto;
 }
+
+.break {
+    width: 100%;
+    margin-top: 50px;
+    display: block;
+}
+
+
+.clicktoshow {
+    margin-bottom: 20px;
+    color: #555;
+    font-family: 'Lato', serif;
+    font-size: 115%;
+    cursor: pointer;
+}
+
+.clicktoshow:hover {
+    color: #333;
+}
+
+
