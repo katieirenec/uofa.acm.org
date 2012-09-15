@@ -17,3 +17,4 @@ then login to uofa.acm.org and run `git pull`. Users will rejoice.
 
 New to working on the ACM site? If you're running Mac OS X [this will help you get started](https://github.com/uofa-acm/uofa.acm.org/blob/master/doc/getting-started-macosx.md). Don't see your system or configuration in the docs? Try adapting one of the existing guides and sending us a pull request.
 
+This design is a based off of http://stanfordacm.com/
